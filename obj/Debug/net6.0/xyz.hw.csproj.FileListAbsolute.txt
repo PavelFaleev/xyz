@@ -1,0 +1,15 @@
+C:\Users\frais\xyz.hw\bin\Debug\net6.0\xyz.hw.exe
+C:\Users\frais\xyz.hw\bin\Debug\net6.0\xyz.hw.deps.json
+C:\Users\frais\xyz.hw\bin\Debug\net6.0\xyz.hw.runtimeconfig.json
+C:\Users\frais\xyz.hw\bin\Debug\net6.0\xyz.hw.dll
+C:\Users\frais\xyz.hw\bin\Debug\net6.0\xyz.hw.pdb
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.csproj.AssemblyReference.cache
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.AssemblyInfoInputs.cache
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.AssemblyInfo.cs
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.csproj.CoreCompileInputs.cache
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.dll
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\refint\xyz.hw.dll
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.pdb
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\xyz.hw.genruntimeconfig.cache
+C:\Users\frais\xyz.hw\obj\Debug\net6.0\ref\xyz.hw.dll
